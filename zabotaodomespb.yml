@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-10-03 23:20">
+  <shop>
+    <name>Забота о доме</name>
+    <company>Забота о доме — пиломатериалы в Санкт-Петербурге</company>
+    <url>https://zabotaodomespb.ru/</url>
+    <categories>
+      <category id="1">Брус</category>
+      <category id="2">Брусок строганый</category>
+      <category id="3">Брусок естественной влажности</category>
+      <category id="4">Доска строганная</category>
+      <category id="5">Доска сухая камерной сушки</category>
+      <category id="6">Имитация бруса</category>
+      <category id="7">Планкен</category>
+      <category id="8">Шпунтованная доска</category>
+      <category id="9">Террасная доска</category>
+      <category id="10">Скандинавская доска</category>
+      <category id="11">Скандинавская имитация бруса</category>
+      <category id="12">Доска с лунным пазом</category>
+      <category id="13">Опилки прессованные</category>
+    </categories>
+    <delivery-options/>
+    <offers>
+      <offer id="p1" available="true">
+        <url>https://zabotaodomespb.ru/catalog/#imitatsiya-brusa</url>
+        <price>630</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>6</categoryId>
+        <picture>https://zabotaodomespb.ru/images/catalog-34.jpg</picture>
+        <name>Имитация бруса 18×146×6000 мм, сорт АВ</name>
+        <description>Имитация бруса 18×146×6000 мм, сорт АВ — строганная профилированная доска для наружной и внутренней отделки стен «под брус». Изготовлена из сухой хвойной древесины, имеет замок шип-паз для плотного бесщелевого соединения досок между собой. Сорт АВ — минимум сучков и смоляных карманов, ровная лицевая пласть. Подходит для обшивки фасадов, бань, беседок и внутренних перегородок.</description>
+      </offer>
+      <offer id="p2" available="true">
+        <url>https://zabotaodomespb.ru/catalog/#imitatsiya-brusa</url>
+        <price>386</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>6</categoryId>
+        <picture>https://zabotaodomespb.ru/images/product-101.jpg</picture>
+        <name>Имитация бруса 18×146×6000 мм, сорт ВС</name>
+        <description>Имитация бруса 18×146×6000 мм, сорт ВС — экономичный вариант профилированной доски «под брус» с естественными сучками на лицевой стороне. Отлично подходит для обшивки хозяйственных построек, каркасных стен и черновой наружной отделки, где не критична идеальная чистота поверхности.</description>
+      </offer>
+      <offer id="p3" available="true">
+        <url>https://zabotaodomespb.ru/catalog/#imitatsiya-brusa</url>
+        <price>683</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>6</categoryId>
+        <picture>https://zabotaodomespb.ru/images/product-102.jpg</picture>
+        <name>Имитация бруса 20×146×6000 мм, сорт АВ</name>
+        <description>Имитация бруса 20×146×6000 мм, сорт АВ — увеличенная толщина 20 мм добавляет жёсткости и лучше держит крепёж, оставаясь при этом лёгким профилированным материалом. Ровная лицевая сторона сорта АВ и замковое соединение шип-паз обеспечивают плотную обшивку без щелей и продувания.</description>
+      </offer>
+      <offer id="p4" available="true">
+        <url>https://zabotaodomespb.ru/catalog/#imitatsiya-brusa</url>
+        <price>430</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>6</categoryId>
+        <picture>https://zabotaodomespb.ru/images/product-101.jpg</picture>
+        <name>Имитация бруса 20×146×6000 мм, сорт ВС</name>
+        <description>Имитация бруса 20×146×6000 мм, сорт ВС — доска толщиной 20 мм с естественными сучками. Хороший баланс прочности и цены для обшивки хозблоков, сараев, заборов и внутренних перегородок в холодных постройках.</description>
+      </offer>
+      <offer id="p5" available="true">
+        <url>https://zabotaodomespb.ru/catalog/#imitatsiya-brusa</url>
+        <price>712</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>6</categoryId>
+        <picture>https://zabotaodomespb.ru/images/product-103.jpg</picture>
+        <name>Имитация бруса 21×146×6000 мм, сорт АВ</name>
+        <description>Имитация бруса 21×146×6000 мм, сорт АВ — самая массивная позиция в линейке, подходит там, где важна повышенная жёсткость обшивки. Сухая строганная доска сорта АВ с аккуратной лицевой пластью и замком шип-паз для ровного, плотного фасада без щелей.</description>
+      </offer>
+      <offer id="p6" available="true">
+        <url>https://zabotaodomespb.ru/catalog/#imitatsiya-brusa</url>
+        <price>856</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>6</categoryId>
+        <picture>https://zabotaodomespb.ru/images/catalog-35.jpg</picture>
+        <name>Имитация бруса 21×170×6000 мм, сорт АВ</name>
+        <description>Имитация бруса 21×170×6000 мм, сорт АВ — самая широкая позиция в линейке. Крупная лицевая пласть заметно сокращает число стыков на фасаде и визуально выглядит как настоящий брус. Сухая строганная доска сорта АВ с замком шип-паз для плотной, ровной обшивки без щелей.</description>
+      </offer>
+      <offer id="p7" available="true">
+        <url>https://zabotaodomespb.ru/catalog/#doska-strogannaya</url>
+        <price>433</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://zabotaodomespb.ru/images/catalog-36.jpg</picture>
+        <name>Доска сухая строганная 20×95×6000 мм, сорт АВ</name>
+        <description>Доска сухая строганная 20×95×6000 мм, сорт АВ — остроганная с четырёх сторон доска из сухой древесины (влажность 12–18%). Ровные грани и гладкая поверхность без заусенцев позволяют использовать её без дополнительной обработки: для полок, реечных конструкций и лёгкой мебели.</description>
+      </offer>
+      <offer id="p8" available="true">
+        <url>https://zabotaodomespb.ru/catalog/#doska-strogannaya</url>
+        <price>561</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://zabotaodomespb.ru/images/product-104.jpg</picture>
+        <name>Доска сухая строганная 20×120×6000 мм, сорт АВ</name>
+        <description>Доска сухая строганная 20×120×6000 мм, сорт АВ — универсальная толщина 20 мм для внутренней отделки, обрешётки под облицовку и элементов мебели. Гладкая остроганная поверхность готова под покраску или лакировку сразу после монтажа.</description>
+      </offer>
+      <offer id="p9" available="true">
+        <url>https://zabotaodomespb.ru/catalog/#doska-strogannaya</url>
+        <price>678</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://zabotaodomespb.ru/images/product-p9.webp</picture>
+        <name>Доска сухая строганная 20×145×6000 мм, сорт АВ</name>
+        <description>Доска сухая строганная 20×145×6000 мм, сорт АВ — широкая гладкая доска для обшивки стен и потолков, изготовления столешниц, скамей и лестничных ступеней. Низкая остаточная влажность снижает риск последующей усадки и растрескивания.</description>
+      </offer>
+      <offer id="p10" available="true">
+        <url>https://zabotaodomespb.ru/catalog/#doska-strogannaya</url>
+        <price>936</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://zabotaodomespb.ru/images/catalog-37.jpg</picture>
+        <name>Доска сухая строганная 20×195×6000 мм, сорт АВ</name>
+        <description>Доска сухая строганная 20×195×6000 мм, сорт АВ — максимальная ширина в линейке 20-мм досок. Хорошо подходит для широких полок, подоконников, столешниц и декоративной обшивки, где важна минимальная стыковка досок по ширине.</description>
+      </offer>
+      <offer id="p11" available="true">
+        <url>https://zabotaodomespb.ru/catalog/#doska-strogannaya</url>
+        <price>820</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://zabotaodomespb.ru/images/catalog-38.jpg</picture>
+        <name>Доска сухая строганная 45×95×6000 мм, сорт АВ</name>
+        <description>Доска сухая строганная 45×95×6000 мм, сорт АВ — доска увеличенной толщины 45 мм для несущих элементов лёгких конструкций: лаг, ступеней, каркасов скамей и садовой мебели, где требуется прочность бруска в сочетании с гладкой строганной поверхностью.</description>
+      </offer>
+      <offer id="p12" available="true">
+        <url>https://zabotaodomespb.ru/catalog/#doska-strogannaya</url>
+        <price>1252</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://zabotaodomespb.ru/images/product-105.jpg</picture>
+        <name>Доска сухая строганная 45×145×6000 мм, сорт АВ</name>
+        <description>Доска сухая строганная 45×145×6000 мм, сорт АВ — плотная толстая доска для лестниц, стеллажей, лаг пола и силовых элементов лёгких построек. Сухая древесина сорта АВ с гладкой остроганной пластью не требует дополнительного шлифования.</description>
+      </offer>
+      <offer id="p13" available="true">
+        <url>https://zabotaodomespb.ru/catalog/#doska-strogannaya</url>
+        <price>1737</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://zabotaodomespb.ru/images/product-p13.webp</picture>
+        <name>Доска сухая строганная 45×195×6000 мм, сорт АВ</name>
+        <description>Доска сухая строганная 45×195×6000 мм, сорт АВ — самая массивная строганная доска в наличии. Используется как несущий элемент в лестницах, настилах и мебельных щитах, где нужна одновременно толщина, ширина и чистая лицевая поверхность.</description>
+      </offer>
+      <offer id="p14" available="true">
+        <url>https://zabotaodomespb.ru/catalog/#terrasnaya-doska</url>
+        <price>1157</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://zabotaodomespb.ru/images/product-106.jpg</picture>
+        <name>Террасная доска (вельвет) 35×145×6000 мм, сорт АВ</name>
+        <description>Террасная доска (вельвет) 35×145×6000 мм, сорт АВ — рифлёная доска для устройства открытых террас, веранд, настилов у бассейна и садовых дорожек. Рельефная поверхность увеличивает сцепление и не скользит даже в дождь. Изготовлена из сухой древесины сорта АВ.</description>
+      </offer>
+      <offer id="p16" available="true">
+        <url>https://zabotaodomespb.ru/catalog/#brusok-strogannyj</url>
+        <price>216</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://zabotaodomespb.ru/images/product-p16.webp</picture>
+        <name>Брусок сухой строганый 20×45×6000 мм, сорт АВ</name>
+        <description>Брусок сухой строганый 20×45×6000 мм, сорт АВ — лёгкий профилированный брусок с гладкой остроганной поверхностью. Применяется для обрешётки под вагонку и сайдинг, реечных потолков, декоративных раскладок и каркасов лёгких конструкций.</description>
+      </offer>
+      <offer id="p17" available="true">
+        <url>https://zabotaodomespb.ru/catalog/#brusok-strogannyj</url>
+        <price>486</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://zabotaodomespb.ru/images/catalog-41.jpg</picture>
+        <name>Брусок сухой строганый 45×45×6000 мм, сорт АВ</name>
+        <description>Брусок сухой строганый 45×45×6000 мм, сорт АВ — квадратный сухой брусок для каркасов лёгких перегородок, стеллажей, обрешётки и садовых конструкций. Строганная поверхность позволяет использовать брусок без дополнительной обработки.</description>
+      </offer>
+      <offer id="p18" available="true">
+        <url>https://zabotaodomespb.ru/catalog/#doska-suhaya</url>
+        <price>375</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://zabotaodomespb.ru/images/product-107.jpg</picture>
+        <name>Доска сухая обрезная 25×100×6000 мм</name>
+        <description>Доска сухая обрезная 25×100×6000 мм, сорт 1-2 — просушенная обрезная доска, универсальный материал для чернового пола, обрешётки кровли, опалубки и хозяйственных построек, где не требуется идеальная гладкость поверхности.</description>
+      </offer>
+      <offer id="p19" available="true">
+        <url>https://zabotaodomespb.ru/catalog/#doska-suhaya</url>
+        <price>575</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://zabotaodomespb.ru/images/product-p19.webp</picture>
+        <name>Доска сухая обрезная 25×150×6000 мм</name>
+        <description>Доска сухая обрезная 25×150×6000 мм, сорт 1-2 — широкая сухая доска для настилов, обрешётки, чернового пола и каркасного строительства. Хорошее соотношение цены и объёма для больших по площади работ.</description>
+      </offer>
+      <offer id="p20" available="true">
+        <url>https://zabotaodomespb.ru/catalog/#doska-suhaya</url>
+        <price>920</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://zabotaodomespb.ru/images/product-107.jpg</picture>
+        <name>Доска сухая обрезная 40×150×6000 мм</name>
+        <description>Доска сухая обрезная 40×150×6000 мм, сорт 1-2 — доска увеличенной толщины для лаг, стропильных ног небольшого пролёта и несущих элементов хозяйственных построек. Просушена до 18–22%, что снижает риск последующей деформации.</description>
+      </offer>
+      <offer id="p21" available="true">
+        <url>https://zabotaodomespb.ru/catalog/#doska-suhaya</url>
+        <price>750</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://zabotaodomespb.ru/images/catalog-43.jpg</picture>
+        <name>Доска сухая обрезная 50×100×6000 мм</name>
+        <description>Доска сухая обрезная 50×100×6000 мм, сорт 1-2 — классическое сечение для лаг пола, стропил, обвязки каркаса и хозяйственных построек. Один из самых востребованных размеров в строительстве загородного дома.</description>
+      </offer>
+      <offer id="p22" available="true">
+        <url>https://zabotaodomespb.ru/catalog/#doska-suhaya</url>
+        <price>1125</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://zabotaodomespb.ru/images/product-108.jpg</picture>
+        <name>Доска сухая обрезная 50×150×6000 мм</name>
+        <description>Доска сухая обрезная 50×150×6000 мм, сорт 1-2 — несущая доска для стропильной системы, лаг перекрытия и балок пола. Просушена в камерах, что уменьшает вероятность скручивания и растрескивания после монтажа.</description>
+      </offer>
+      <offer id="p23" available="true">
+        <url>https://zabotaodomespb.ru/catalog/#doska-suhaya</url>
+        <price>1590</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://zabotaodomespb.ru/images/product-109.jpg</picture>
+        <name>Доска сухая обрезная 50×200×6000 мм</name>
+        <description>Доска сухая обрезная 50×200×6000 мм, сорт 1-2 — максимальное сечение в линейке сухой обрезной доски. Применяется как несущий элемент перекрытий, стропил большого пролёта и мощных балок в каркасном строительстве.</description>
+      </offer>
+      <offer id="p24" available="true">
+        <url>https://zabotaodomespb.ru/catalog/#brus</url>
+        <price>1200</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://zabotaodomespb.ru/images/catalog-44.jpg</picture>
+        <name>Брус 100×100×6000 мм</name>
+        <description>Брус 100×100×6000 мм — пиломатериал квадратного сечения из цельного бревна. Применяется как несущий материал для лёгких каркасов, хозблоков, обвязки фундамента и стропильной системы небольших построек.</description>
+      </offer>
+      <offer id="p25" available="true">
+        <url>https://zabotaodomespb.ru/catalog/#brus</url>
+        <price>1800</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://zabotaodomespb.ru/images/catalog-45.jpg</picture>
+        <name>Брус 150×100×6000 мм</name>
+        <description>Брус 150×100×6000 мм — прямоугольное сечение для стен каркасных домов и бань, балок перекрытия и стропильных ног среднего пролёта. Один из самых ходовых размеров в частном домостроении.</description>
+      </offer>
+      <offer id="p26" available="true">
+        <url>https://zabotaodomespb.ru/catalog/#brus</url>
+        <price>2700</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://zabotaodomespb.ru/images/catalog-46.jpg</picture>
+        <name>Брус 150×150×6000 мм</name>
+        <description>Брус 150×150×6000 мм — массивное сечение для несущих стен, углов сруба и силового каркаса дома или бани. Обеспечивает высокую прочность конструкции и хорошую теплоёмкость стены.</description>
+      </offer>
+      <offer id="p27" available="true">
+        <url>https://zabotaodomespb.ru/catalog/#brusok-estestvennoj</url>
+        <price>206</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://zabotaodomespb.ru/images/product-110.jpg</picture>
+        <name>Брусок 25×50×6000 мм</name>
+        <description>Брусок 25×50×6000 мм, сорт 1-2 — обрезной брусок небольшого сечения. Подходит для обрешётки кровли и фасада, каркаса лёгких перегородок и хозяйственных нужд, где не требуется идеально гладкая поверхность.</description>
+      </offer>
+      <offer id="p28" available="true">
+        <url>https://zabotaodomespb.ru/catalog/#brusok-estestvennoj</url>
+        <price>413</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://zabotaodomespb.ru/images/product-110.jpg</picture>
+        <name>Брусок 50×50×6000 мм</name>
+        <description>Брусок 50×50×6000 мм, сорт 1-2 — квадратный брусок универсального сечения. Используется для каркасов, обрешётки, лёгких стеллажей и садовых конструкций.</description>
+      </offer>
+      <offer id="p29" available="true">
+        <url>https://zabotaodomespb.ru/catalog/#planken</url>
+        <price>434</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>7</categoryId>
+        <picture>https://zabotaodomespb.ru/images/product-111.jpg</picture>
+        <name>Планкен 20×95×6000 мм, сорт АВ</name>
+        <description>Планкен 20×95×6000 мм, сорт АВ — фасадная доска со скруглённой кромкой для вентилируемых фасадов, заборов-экранов и наружной обшивки. Изготовлен из сухой строганной древесины сорта АВ с чистой лицевой стороной.</description>
+      </offer>
+      <offer id="p30" available="true">
+        <url>https://zabotaodomespb.ru/catalog/#planken</url>
+        <price>547</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>7</categoryId>
+        <picture>https://zabotaodomespb.ru/images/product-111.jpg</picture>
+        <name>Планкен 20×120×6000 мм, сорт АВ</name>
+        <description>Планкен 20×120×6000 мм, сорт АВ — широкая фасадная доска для обшивки домов, беседок и заборов «на расстоянии» (с зазором). Скруглённая кромка снижает скопление влаги на торцах и продлевает срок службы обшивки.</description>
+      </offer>
+      <offer id="p31" available="true">
+        <url>https://zabotaodomespb.ru/catalog/#planken</url>
+        <price>661</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>7</categoryId>
+        <picture>https://zabotaodomespb.ru/images/product-111.jpg</picture>
+        <name>Планкен 20×145×6000 мм, сорт АВ</name>
+        <description>Планкен 20×145×6000 мм, сорт АВ — максимальная ширина планкена в наличии. Хорошо смотрится на больших фасадных плоскостях и заборах, сокращая количество стыков по горизонтали.</description>
+      </offer>
+      <offer id="p32" available="true">
+        <url>https://zabotaodomespb.ru/catalog/#shpunt</url>
+        <price>1249</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://zabotaodomespb.ru/images/catalog-47.jpg</picture>
+        <name>Шпунт 38×137×6000 мм</name>
+        <description>Шпунт 38×137×6000 мм — половая доска с замковым соединением шип-паз для настила пола по лагам. Толщина 38 мм и увеличенная ширина позволяют укладывать пол с меньшим числом стыков и без прогиба под нагрузкой. Скрытое крепление через паз даёт ровную поверхность пола без видимых шляпок гвоздей и саморезов.</description>
+      </offer>
+      <offer id="p33" available="true">
+        <url>https://zabotaodomespb.ru/catalog/#doska-strogannaya</url>
+        <price>1125</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://zabotaodomespb.ru/images/product-104.jpg</picture>
+        <name>Доска сухая строганная 35×145×6000 мм, сорт АВ</name>
+        <description>Доска сухая строганная 35×145×6000 мм, сорт АВ — остроганная доска увеличенной толщины 35 мм из сухой древесины. Используется там, где толщины 20 мм недостаточно: для настилов, ступеней, элементов мебели и силовых реечных конструкций.</description>
+      </offer>
+      <offer id="p34" available="true">
+        <url>https://zabotaodomespb.ru/catalog/#brusok-strogannyj</url>
+        <price>288</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://zabotaodomespb.ru/images/catalog-40.jpg</picture>
+        <name>Брусок сухой строганый 30×40×6000 мм, сорт АВ</name>
+        <description>Брусок сухой строганый 30×40×6000 мм, сорт АВ — профилированный брусок промежуточного сечения между 20×45 и 45×45. Используется для обрешётки, каркасов лёгких конструкций и декоративной отделки.</description>
+      </offer>
+      <offer id="p35" available="true">
+        <url>https://zabotaodomespb.ru/catalog/#doska-suhaya</url>
+        <price>612</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://zabotaodomespb.ru/images/catalog-42.jpg</picture>
+        <name>Доска сухая обрезная 40×100×6000 мм</name>
+        <description>Доска сухая обрезная 40×100×6000 мм, сорт 1-2 — доска среднего сечения для лаг, обрешётки и элементов каркаса, где толщины 25 мм недостаточно, а полноценный брус не требуется.</description>
+      </offer>
+      <offer id="p36" available="true">
+        <url>https://zabotaodomespb.ru/catalog/#skandinavskaya-doska</url>
+        <price>527</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>10</categoryId>
+        <picture>https://zabotaodomespb.ru/images/product-p36-skandinavskaya-doska.webp</picture>
+        <name>Скандинавская доска 22×95×6000 мм, сорт АВ</name>
+        <description>Скандинавская доска 22×95×6000 мм, сорт АВ — фасадная доска с прямым плоским профилем без фаски для горизонтальной обшивки в скандинавском стиле. Даёт более лаконичный фасад по сравнению с классической имитацией бруса.</description>
+      </offer>
+      <offer id="p37" available="true">
+        <url>https://zabotaodomespb.ru/catalog/#skandinavskaya-imitatsiya</url>
+        <price>751</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>11</categoryId>
+        <picture>https://zabotaodomespb.ru/images/catalog-49.jpg</picture>
+        <name>Скандинавская имитация 22×146×6000 (с фрезой) мм</name>
+        <description>Скандинавская имитация 22×146×6000 мм (с фрезой) — широкая фасадная доска с дополнительным декоративным пазом-фрезеровкой на лицевой стороне для более выразительной фактуры фасада.</description>
+      </offer>
+      <offer id="p38" available="true">
+        <url>https://zabotaodomespb.ru/catalog/#skandinavskaya-imitatsiya</url>
+        <price>732</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>11</categoryId>
+        <picture>https://zabotaodomespb.ru/images/catalog-49.jpg</picture>
+        <name>Скандинавская имитация 22×146×6000 (без фрезы) мм</name>
+        <description>Скандинавская имитация 22×146×6000 мм (без фрезы) — широкая фасадная доска с гладкой лицевой стороной без дополнительного паза, для ровного лаконичного фасада.</description>
+      </offer>
+      <offer id="p39" available="true">
+        <url>https://zabotaodomespb.ru/catalog/#opilki-pressovannye</url>
+        <price>200</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>13</categoryId>
+        <picture>https://zabotaodomespb.ru/images/catalog-51.jpg</picture>
+        <name>Опилки прессованные 18-22 кг мм</name>
+        <description>Опилки прессованные — чистое сырьё из опилок хвойных пород (ель, сосна) без посторонних примесей. Подходит для отопления, компостирования, использования в качестве подстилки для животных или мульчирующего материала.</description>
+      </offer>
+      <offer id="p40" available="true">
+        <url>https://zabotaodomespb.ru/catalog/#lunniy-paz</url>
+        <price>858</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>12</categoryId>
+        <picture>https://zabotaodomespb.ru/images/catalog-48.jpg</picture>
+        <name>Лунный паз 45×95×6000 мм</name>
+        <description>Лунный паз 45×95×6000 мм — оцилиндрованный с одной стороны брус с полукруглым продольным пазом для сборки сруба «под старину». Паз повторяет форму нижнего бревна и обеспечивает плотное прилегание венцов без щелей и продувания.</description>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
